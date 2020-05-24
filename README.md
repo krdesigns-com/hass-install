@@ -1,0 +1,1 @@
+## HASS.core installation script for Raspbian Buster on RPI 4
